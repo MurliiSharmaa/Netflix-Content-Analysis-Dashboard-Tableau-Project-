@@ -22,24 +22,6 @@ This project demonstrates my skills in data analytics, storytelling with visuals
 
 ---
 
-## 🗂️ Project Structure
-
-Netflix-Tableau-Project/
-│
-├── data/
-│ └── netflix_titles.csv # Original dataset from Kaggle
-│
-├── images/
-│ └── netflix_dashboard_screenshot.png # Screenshot of the final dashboard
-│
-├── tableau/
-│ └── netflix_dashboard.twbx # Tableau workbook (packaged)
-│
-└── README.md # This file
-
-
----
-
 ## 📌 Dashboard Features
 
 - 🌍 **Interactive Map**: Total movies and TV shows by country
@@ -65,8 +47,6 @@ Netflix-Tableau-Project/
 
 - **Tableau** – for dashboard creation and publishing  
 - **Microsoft Excel** – for preprocessing and cleaning the dataset  
-- **GitHub** – to host the code and documentation  
-- **Mapbox** – used inside Tableau for mapping country-wise content
 
 ---
 
